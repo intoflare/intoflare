@@ -1,9 +1,7 @@
-<h2>🔥 Intoflare — Omar Sherif & Fares Sherif</h2>
+<h2>🔥 Intoflare </h2>
 
 <p>
-We're twin founders building the full spectrum of digital products —<br/>
-websites, mobile apps, AI models, and design systems — faster than anyone else.<br/>
-Based in Egypt. Built for the world.
+Intoflare is a web design and app development studio building stunning websites, custom apps, and tech solutions for startups and businesses. Bold design, motion-rich interfaces, and conversion-focused engineering — built to be seen.
 </p>
 
 <p>
