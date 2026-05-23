@@ -24,7 +24,7 @@ Intoflare is a web design and app development studio building stunning websites,
 
 <h3>🛠️ Tech Stack</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,github,gcp,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=css,docker,figma,flutter,framer,html,js,react,tailwind,ts,nextjs,postgres,prisma,supabase" />
 </p>
 
 <p>
