@@ -11,7 +11,7 @@ Intoflare is a web design and app development studio building stunning websites,
 &nbsp;|&nbsp;
 📱 <a href="https://wa.me/201225767822" target="_blank">WhatsApp Us</a>
 &nbsp;|&nbsp;
-🤝 <a href="https://www.linkedin.com/in/into-flare-8059b9410" target="_blank">LinkedIn</a>
+🤝 <a href="https://www.linkedin.com/company/intoflare/" target="_blank">LinkedIn</a>
 </p>
 
 <p>
